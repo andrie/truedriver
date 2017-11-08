@@ -1,0 +1,24 @@
+Package: truedriver
+Maintainer: Andrie de Vries <apdevries@gmail.com>
+License: MIT + file LICENSE
+Title: Tools to Perform True Driver Analysis
+LazyData: true
+LazyLoad: true
+Author: Andrie de Vries <apdevries@gmail.com>
+Description: This is a set of tools to perform True Driver
+    Analysis.
+Version: 0.0-06
+URL: 
+Date: 2012-01-19
+Depends:
+    R (>= 2.13.0),
+    ggplot2
+Imports:
+    scales,
+    relaimpo,
+    reshape,
+    plyr,
+    car
+Suggests:
+    reshape2
+RoxygenNote: 6.0.1

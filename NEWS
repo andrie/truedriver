@@ -1,0 +1,7 @@
+truedriver 0.0-06 (19/01/2012)
+-----------------
+
+First experimental release:
+* truedriver() provides a convenient wrapper around relaimpo() to calculate relative importance
+* plot() method creates ggplot
+
